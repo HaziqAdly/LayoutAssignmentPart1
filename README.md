@@ -1,4 +1,4 @@
-# Assignment 1: Layout Assignment Part 1
+# Assignment 2: Layout Assignment Part 1
 - A new Flutter project for Assignment 1 (CSCI 4311 MOBILE APPLICATION DEVELOPMENT).
 ## Getting Started
 - Install Flutter
